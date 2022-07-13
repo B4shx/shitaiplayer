@@ -113,4 +113,10 @@ let allMusic = [
     img: "music-19",
     src: "music-19"
   },
+    {
+    name: "Welcome To The Jungle",
+    artist: "Guns N' Roses",
+    img: "music-20",
+    src: "music-20"
+  },
 ];
