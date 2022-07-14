@@ -119,4 +119,10 @@ let allMusic = [
     img: "music-20",
     src: "music-20"
   },
+    {
+    name: "August",
+    artist: "Intelligency",
+    img: "music-21",
+    src: "music-21"
+  },
 ];
