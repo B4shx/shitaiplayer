@@ -137,10 +137,16 @@ let allMusic = [
     img: "music-23",
     src: "music-23"
   },
-       {
+     {
     name: "You Know You're Right",
     artist: "Nirvana",
     img: "music-24",
     src: "music-24"
+  },
+     {
+    name: "In Bloom",
+    artist: "Nirvana",
+    img: "music-25",
+    src: "music-25"
   },
 ];
