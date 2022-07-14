@@ -125,4 +125,10 @@ let allMusic = [
     img: "music-21",
     src: "music-21"
   },
+   {
+    name: "Smells Like Teen Spirit",
+    artist: "Nirvana",
+    img: "music-22",
+    src: "music-22"
+  },
 ];
